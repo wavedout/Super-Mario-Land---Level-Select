@@ -15,8 +15,6 @@ On the title screen:
 
 ## Patching
 
-https://www.romhacking.net/patch/
-
 Apply either the `.bps` or `.ips` patch to a clean copy of:
 
 **Super Mario Land (World)**
@@ -24,6 +22,8 @@ Apply either the `.bps` or `.ips` patch to a clean copy of:
 BPS is recommended.
 
 Do not apply both patches.
+
+https://www.romhacking.net/patch/
 
 ## Source ROM
 
