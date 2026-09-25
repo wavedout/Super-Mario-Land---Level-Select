@@ -33,6 +33,12 @@ MD5: `B48161623F12F86FEC88320166A21FCE`
 
 SHA-1: `3A4DDB39B234A67FFB361EE7ABC3D23E0A8B1C89`
 
+## Screenshots
+
+| Title menu | Level selection | Gameplay |
+| --- | --- | --- |
+| ![Title menu with level selection enabled](screenshots/01-title-menu.png) | ![World 2-3 selected](screenshots/02-level-select.png) | ![World 2-3 gameplay](screenshots/03-gameplay.png) |
+
 ## Download
 
 See the **Releases** section for the packaged release.
